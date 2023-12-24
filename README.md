@@ -84,3 +84,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
 
 <!-- BSTATION -->
+
+
+> [!WARNING]  
+> Everything will be processed 1 x 24 hours according to the queue (or my busy schedule). Don't stack messages because it will make your chat back to the top; I process everything based on the chat below.
