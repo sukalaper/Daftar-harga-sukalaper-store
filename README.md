@@ -2,7 +2,7 @@
 
 <!-- NETFLIX -->
 <details open>
-<summary>Netflix</summary>
+<summary>NETFLIX</summary>
   <details open>
     <summary>Sharing 1P2U</summary>   
     
@@ -29,7 +29,7 @@
 
  <!-- DISNEY + HOTSTAR -->
 <details open> 
-<summary>Disney + Hotstar</summary>
+<summary>DISNEY + HOTSTAR</summary>
   <details open> 
     <summary>Sharing Plan</summary>
     
@@ -38,12 +38,13 @@
   * 1 Bulan 6 pengguna, Rp.35.000
   * 1 Bulan 3 pengguna, Rp.58.000
   </details>
+</details>
 
 ---
   
 <!-- WETV --> 
 <details open> 
-<summary>WETV | NO FAST TRACK</summary>
+<summary>WETV - NO FAST TRACK</summary>
   <details open>
     <summary>Sharing</summary>
 
@@ -57,3 +58,23 @@
 
   * 1 Bulan, Rp.34.000
   </details>
+</details>
+
+---
+
+<!-- VIU --> 
+<details open>
+<summary>VIU</summary>
+  <details open>
+    <summary>Private Anti Limit</summary>
+    
+  * 1 Bulan, Rp.9.000
+  * 2 Bulan, Rp.12.000
+  * 3 Bulan, Rp.15.000
+  * 1 Tahun, Rp. 25.000 (_renewal_ 2x)
+  </details>
+</details>
+
+---
+
+<!-- BSTATION -->
