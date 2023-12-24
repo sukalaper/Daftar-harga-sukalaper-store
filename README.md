@@ -3,6 +3,9 @@
 </h2>
 <br>
 
+> **Catatan**: Selalu tanyakan ketersediaan aplikasi sebelum membeli.
+
+
 <!-- NETFLIX -->
 <details>
 <summary>NETFLIX</summary>
