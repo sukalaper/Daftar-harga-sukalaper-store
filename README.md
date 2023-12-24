@@ -4,9 +4,9 @@
 <br>
 
 <!-- NETFLIX -->
-<details open>
+<details>
 <summary>NETFLIX</summary>
-  <details open>
+  <details>
     <summary>Sharing 1P2U</summary>   
     
   * 1 Hari, Rp.4.500
@@ -17,7 +17,7 @@
   * 2 Bulan, Rp.32.000 (_renewal_)
   * 3 Bulan, Rp.47.000 (_renewal_) 
   </details>
-  <details open>
+  <details>
     <summary>Sharing 1P1U</summary>
 
   * 1 Hari, Rp.5.000
@@ -28,12 +28,12 @@
   </details>
 </details>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
 
  <!-- DISNEY + HOTSTAR -->
-<details open> 
+<details> 
 <summary>DISNEY + HOTSTAR</summary>
-  <details open> 
+  <details> 
     <summary>Sharing Plan</summary>
     
   * 1 Hari 2 pengguna, Rp.10.000
@@ -43,12 +43,12 @@
   </details>
 </details>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
   
 <!-- WETV --> 
-<details open> 
+<details> 
 <summary>WETV - NO FAST TRACK</summary>
-  <details open>
+  <details>
     <summary>Sharing</summary>
 
   * 1 Hari, Rp.5.500
@@ -56,19 +56,19 @@
   * 1 Bulan, Rp.12.000
   * 1 Tahun, Rp.14.500
   </details>
-  <details open>
+  <details>
     <summary>Private </summary>
 
   * 1 Bulan, Rp.34.000
   </details>
 </details>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
 
 <!-- VIU --> 
-<details open>
+<details>
 <summary>VIU</summary>
-  <details open>
+  <details>
     <summary>Private Anti Limit</summary>
     
   * 1 Bulan, Rp.9.000
@@ -78,6 +78,6 @@
   </details>
 </details>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
 
 <!-- BSTATION -->
