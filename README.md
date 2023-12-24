@@ -1,4 +1,7 @@
-## Daftar Harga Aplikasi Premium, Sukalaper Store.
+<h2 align=center>
+  Daftar Harga Aplikasi Premium, Sukalaper Store.
+</h2>
+<br>
 
 <!-- NETFLIX -->
 <details open>
