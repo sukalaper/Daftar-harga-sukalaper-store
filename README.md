@@ -27,9 +27,9 @@
 
 ---
 
-<!-- DISNEY + HOTSTART -->
+ <!-- DISNEY + HOTSTAR -->
 <details open> 
-<summary>Disney + Hotstart</summary>
+<summary>Disney + Hotstar</summary>
   <details open> 
     <summary>Sharing Plan</summary>
     
@@ -37,4 +37,23 @@
   * 7 Hari 2 pengguna, Rp.21.000
   * 1 Bulan 6 pengguna, Rp.35.000
   * 1 Bulan 3 pengguna, Rp.58.000
+  </details>
+
+---
+  
+<!-- WETV --> 
+<details open> 
+<summary>WETV | NO FAST TRACK</summary>
+  <details open>
+    <summary>Sharing</summary>
+
+  * 1 Hari, Rp.5.500
+  * 1 Minggu, Rp.10.000
+  * 1 Bulan, Rp.12.000
+  * 1 Tahun, Rp.14.500
+  </details>
+  <details open>
+    <summary>Private </summary>
+
+  * 1 Bulan, Rp.34.000
   </details>
