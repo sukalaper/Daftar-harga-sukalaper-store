@@ -25,7 +25,7 @@
 
   * 1 Hari, Rp.5.000
   * 1 Minggu, Rp.15.000
-  * 1 Bulan, Rp.28.000
+  * 1 Bulan, Rp.29.000
   * 2 Bulan, Rp.55.000 (_renewal_)
   * 3 Bulan, Rp.80.000 (_renewal_)
   </details>
